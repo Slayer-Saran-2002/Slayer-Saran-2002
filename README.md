@@ -17,7 +17,7 @@
 
 
 
-- :telescope: I’m working as a Electrical Engineer and contributing to frontend and backend for building web applications , AI-ML is my hobby .
+- :telescope: I’m working as a Electrical Engineer and contributing to frontend and backend for building web applications, AI-ML is my hobby .
 
 - :seedling: Exploring Technical Content Writing.
 
