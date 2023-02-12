@@ -15,13 +15,13 @@
   </a>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Electrical Engineer and contributing to frontend and backend for building web applications , AI-ML is my hobby .
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, Codecheff, HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saranjeet-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saranjeet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saranjeet-mondal-119456234/)
 
 <!--
 **Slayer-Saran-2002/Slayer-Saran-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
