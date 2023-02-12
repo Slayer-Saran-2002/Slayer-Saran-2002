@@ -51,11 +51,12 @@
 </div>
 
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slayer-Saran-2002&theme=highcontrast)](https://git.io/streak-stats)
 
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayer-Saran-2002&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
