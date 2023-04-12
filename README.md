@@ -26,6 +26,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saranjeet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saranjeet-mondal-119456234/)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Slayer-Saran-2002&label=Profile%20views&color=0e75b6&style=flat" alt="laughing-nerd" /> </p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
