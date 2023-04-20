@@ -54,7 +54,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slayer-Saran-2002&theme=highcontrast)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohomSaha045&show_icons=true&locale=en&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Slayer-Saran-2002&show_icons=true&locale=en&theme=dark" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayer-Saran-2002&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
